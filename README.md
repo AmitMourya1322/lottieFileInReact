@@ -1,0 +1,2 @@
+# lottieFileInReact
+Created with CodeSandbox
